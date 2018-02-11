@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alein", "Alein.csproj", "{4E0A2236-72C8-1527-BA51-1103E620FF2D}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alein", "Assembly-CSharp.csproj", "{47991288-38E3-0470-D460-3E6EA2766001}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4E0A2236-72C8-1527-BA51-1103E620FF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E0A2236-72C8-1527-BA51-1103E620FF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E0A2236-72C8-1527-BA51-1103E620FF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E0A2236-72C8-1527-BA51-1103E620FF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47991288-38E3-0470-D460-3E6EA2766001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47991288-38E3-0470-D460-3E6EA2766001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47991288-38E3-0470-D460-3E6EA2766001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47991288-38E3-0470-D460-3E6EA2766001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
