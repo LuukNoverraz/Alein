@@ -295,7 +295,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  jumpSpeed: 900
+  jumpSpeed: 0
   smoothTimeX: 0.1
   smoothTimeY: 0.1
 --- !u!50 &856016768

@@ -31,4 +31,12 @@ public class Player : MonoBehaviour {
 			rigid.AddForce (Vector2.up * jumpSpeed);
 		}
 	}
+
+	void OnCollisionEnter2D(Collision2D col)
+	{
+		if (col.gameObject.tag == "Warp")
+		{
+			Application.LoadLevel("Scene2");
+		}
+	}
 }
