@@ -38,5 +38,9 @@ public class Player : MonoBehaviour {
 		{
 			Application.LoadLevel("Scene2");
 		}
+		if (col.gameObject.tag == "Death") 
+		{
+			Application.LoadLevel ("Scene1");
+		}
 	}
 }

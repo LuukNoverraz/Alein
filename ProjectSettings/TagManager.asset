@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Warp
+  - Death
+  - Celebrate
   layers:
   - Default
   - TransparentFX
