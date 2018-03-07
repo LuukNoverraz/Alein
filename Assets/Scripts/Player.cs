@@ -36,7 +36,7 @@ public class Player : MonoBehaviour {
 	{
 		if (col.gameObject.tag == "Warp")
 		{
-			Application.LoadLevel("Scene2");
+			Application.LoadLevel("WIP");
 		}
 		if (col.gameObject.tag == "Death") 
 		{

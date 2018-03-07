@@ -24,7 +24,7 @@ public class EnemyFollow : MonoBehaviour {
 	{
 		if (col.gameObject.tag == "Player")
 		{
-			//Application.LoadLevel("Scene1");
+			Application.LoadLevel("WIP");
 		}
 	}
 }
